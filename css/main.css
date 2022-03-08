@@ -1,0 +1,25 @@
+/*
+font-family: 'Oswald', sans-serif;
+font-family: 'Unica One', cursive;
+
+lg: 1200px
+md: 992px
+sm: 767px
+xs: 576px
+*/
+
+*{
+    box-sizing: border-box;
+}
+
+body{
+    font-family: 'Oswald', sans-serif;
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 1.375;
+    color:rgb(0, 0, 0);
+}
+
+.no-scroll {
+    overflow: hidden;
+}
